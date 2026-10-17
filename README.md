@@ -1,0 +1,2 @@
+# Indias-Digital-Payment-Landscape-2023-2024-A-Python-Data-Analysis
+Analysis of Digital Banking and Payment Trends in India (2022–2024) using Python. Includes data cleaning, preprocessing, exploratory data analysis (EDA), statistical analysis, and visualization using Pandas, NumPy, Matplotlib, and Seaborn to explore ATM infrastructure, POS terminals, QR-code deployment, and card transaction trends.
